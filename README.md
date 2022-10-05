@@ -1,7 +1,16 @@
 # Project-1
 
 ##### This is first excerise of the darey.io project base learning, which is directed towards impacting the skills of LAMP (Linux, Apache, MySQL, PHP or Python, or Perl and get student familiar with the aws EC2 instance at the end.
+
   
+    • WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS 
+    • Step 1 — Installing Apache and Updating the Firewall 
+    • Step 2 — Installing MySQL 
+    • Step 3 — Installing PHP 
+    • Step 4 — Creating a Virtual Host for your Website using Apache 
+    • Step 5 — Enable PHP on the website
+
+    
 ##WEB STACK IMPLEMENTATION (LAMP STACK) IN AWS
 
 ##### cd ~/Downloads
